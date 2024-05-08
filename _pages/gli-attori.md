@@ -2,6 +2,10 @@
 layout:    single
 title:     "Gli attori"
 permalink: /gli-attori.html
+header:
+  overlay_image: /assets/img/header-4.jpg
+  #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+
 ---
 
 
