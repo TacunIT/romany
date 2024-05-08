@@ -2,12 +2,12 @@ main:
     - title: "Roma-NY"
       url: /
     - title: "La nave"
-      url: /la-nave/
+      url: la-nave.html
     - title: "Il percorso"
-      url: /il-percorso/
+      url: il-percorso.html
     - title: "Gli attori"
-      url: /gli-attori/
+      url: gli-attori.html
     - title: "Blog"
-      url: /blog/
+      url: blog.html
     - title: "Contatti"
-      url: /contatti/
+      url: contatti.html
