@@ -1,1 +1,1 @@
-Sitemap: https://tacunit.github.io/romany//romany/sitemap.xml
+Sitemap: https://tacunit.github.io/romany/sitemap.xml
