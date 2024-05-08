@@ -12,19 +12,19 @@ feature_row:
       alt: "La nave"
       title: "La nave"
       excerpt: "Qui ci deve andare un breve testo che riassuma le caratteristiche della **nave** e un link che porti alla pagina di dettaglio."
-      url: "/la-nave/"
+      url: "la-nave.html"
       btn_label: "Dettagli"
     - image_path: /assets/img/bwc-2.jpg
       alt: "Il percorso"
       title: "Il percorso"
       excerpt: "Qui ci deve andare un breve testo che riassuma le caratteristiche del **percorso** e un link che porti alla pagina di dettaglio."
-      url: "/il-percorso/"
+      url: "il-percorso.html"
       btn_label: "Dettagli"
     - image_path: /assets/img/bwc-3.jpg
       alt: "Time table"
       title: "Cronogramma"
       excerpt: "Qui ci deve andare un breve testo che riassuma il contenuto della **tabella di marcia** e un link che porti alla pagina di dettaglio."
-      url: "/governance/#time-table"
+      url: "gli-attori.html"
       btn_label: "Dettagli"
 ---
 
