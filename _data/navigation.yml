@@ -1,16 +1,13 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
-    target: _blank
+    - title: "Roma-NY"
+      url: /
+    - title: "La nave"
+      url: /la-nave/
+    - title: "Il percorso"
+      url: /il-percorso/
+    - title: "Gli attori"
+      url: /gli-attori/
+    - title: "Blog"
+      url: /blog/
+    - title: "Contatti"
+      url: /contatti/

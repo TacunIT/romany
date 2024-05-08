@@ -1,27 +1,36 @@
 ---
 layout: splash
-excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+excerpt: "Un progetto che unisce l'amore per il mare, la storia e l'avventura: navigare da Roma a New York su una nave romana."
 header:
   overlay_image: /assets/img/bct-3.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
-    - label: "More Info"
+    - label: "Altri cazzi"
       url: "https://unsplash.com"
 feature_row:
     - image_path: /assets/img/bwc-1.jpg
-      alt: "placeholder image 1"
-      title: "Placeholder 1"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      alt: "La nave"
+      title: "La nave"
+      excerpt: "Qui ci deve andare un breve testo che riassuma le caratteristiche della **nave** e un link che porti alla pagina di dettaglio."
+      url: "/la-nave/"
+      btn_label: "Dettagli"
     - image_path: /assets/img/bwc-2.jpg
-      alt: "placeholder image 2"
-      title: "Placeholder 2"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
-      url: "#test-link"
-      btn_label: "Read More"
-      btn_class: "btn--inverse"
+      alt: "Il percorso"
+      title: "Il percorso"
+      excerpt: "Qui ci deve andare un breve testo che riassuma le caratteristiche del **percorso** e un link che porti alla pagina di dettaglio."
+      url: "/il-percorso/"
+      btn_label: "Dettagli"
     - image_path: /assets/img/bwc-3.jpg
-      title: "Placeholder 3"
-      excerpt: "This is some sample content that goes here with **Markdown** formatting."
+      alt: "Time table"
+      title: "Cronogramma"
+      excerpt: "Qui ci deve andare un breve testo che riassuma il contenuto della **tabella di marcia** e un link che porti alla pagina di dettaglio."
+      url: "/governance/#time-table"
+      btn_label: "Dettagli"
 ---
+
+Realizzare una Nave Romana, perfettamente navigante, utilizzando tecniche e materiali dell’epoca.
+Partire da Roma (Ostia antica?) per raggiungere New York.
+Effettuare il viaggio senza supporti  tecnologici moderni (solo emergenze), utilizzando, materiali, cibo, vestiario tutto rigorosamente legato al periodo storico prescelto;
+Essere ambasciatori del made in Italy.
 
 {% include feature_row %}
